@@ -12,6 +12,9 @@
 
 # environment variables
 /src/environments
+firebase.json
+.firebaserc
+
 
 # profiling files
 chrome-profiler-events*.json
